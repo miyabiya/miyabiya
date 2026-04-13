@@ -67,14 +67,13 @@
 
 ## :briefcase: Career Summary
 
-9+ years building web products in Tokyo — from WordPress sites to full-stack SaaS, mobile apps, 3D/AR experiences, and AI-powered platforms. As CTO at two companies and Head of Marketing at another, I've led teams, launched new business lines, and driven measurable growth (400% ad ROI, 2.5x GMV, JPY 9M/mo media revenue). Currently working as a freelance full-stack engineer while co-running an AI-focused company as CTO.
+10+ years building web products in Tokyo — from WordPress sites to full-stack SaaS, mobile apps, 3D/AR experiences, and AI-powered platforms. As CTO at two companies and Head of Marketing at another, I've led teams, launched new business lines, and driven measurable growth (400% ad ROI, 2.5x GMV, JPY 9M/mo media revenue). Currently working as a freelance full-stack engineer while co-running an AI-focused company as CTO.
 
 ---
 
 ## :link: Links
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitsumasa-yamaie/)
-[![Wantedly](https://img.shields.io/badge/-Wantedly-21BDDB?style=flat&logoColor=white)](https://www.wantedly.com/id/miyabiya)
 
 ---
 
