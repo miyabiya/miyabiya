@@ -132,16 +132,16 @@
 ## :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miyabiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyabiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=miyabiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miyabiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miyabiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=miyabiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miyabiya&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=miyabiya&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
