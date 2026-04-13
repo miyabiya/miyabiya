@@ -1,4 +1,4 @@
-# Hi, I'm Mitsumasa Yamaie :wave:
+# Hi, I'm Mitsumasa Yamaga :wave:
 
 **Full-stack engineer & CTO** who ships products end-to-end — from ad operations and SEO to system architecture and cinema-grade 3D rendering on the web.
 
