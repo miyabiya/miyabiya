@@ -110,10 +110,16 @@
 
 ---
 
-## :wrench: In-House 3D Tools
+## :wrench: In-House Tools
 
+**3D**
 - **Mesh Editor on Browser** — Edit 3D mesh vertices and faces directly in the browser
 - **Lighting Editor on Browser** — A no-code tool that lets non-engineers set up Apple-style cinema lighting with a simple GUI, making cinematic 3D product shots accessible to anyone
+
+**Web Services**
+- **Online Oripa Platform** — Full-stack online trading card lottery platform (Nuxt 3 + Prisma + PostgreSQL + Pay.jp + GCP Cloud Run) with product/SKU management, pack system, point economy, payment, and admin panel
+- **Diagnostic Builder** — No-code quiz / diagnostic tool builder with branching logic and score-based results
+- **Eye-Catch Generator** — Browser-based thumbnail image editor for media and blog content, with Stripe subscription billing
 
 ---
 
